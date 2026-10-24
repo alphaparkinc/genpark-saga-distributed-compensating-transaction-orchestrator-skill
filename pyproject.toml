@@ -1,0 +1,12 @@
+[project]
+name = "genpark-saga-distributed-compensating-transaction-orchestrator-skill"
+version = "1.0.0"
+description = "Coordinates distributed multi-step agent actions with forward execution and deterministic reverse compensation handlers"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Homepage = "https://www.genpark.ai"
+LinkedIn = "https://www.linkedin.com/company/92955550"
+LinkedInPage = "https://www.llinkedin.com/company/92955550"
